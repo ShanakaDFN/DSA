@@ -1,23 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="db5c9a23-c623-4c4a-85d5-56fb778aa0f9" name="Changes" comment="" />
+    <list default="true" id="db5c9a23-c623-4c4a-85d5-56fb778aa0f9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds/DSMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/ds/DSMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds/array/iq/MergeTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/ds/array/iq/MergeTwoArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds/array/iq/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/ds/array/iq/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/inheritance/InClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/inheritance/InClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/inheritance/ModArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/oop/inheritance/ModArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ds/DSMain.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ds/array/iq/MergeTwoArrays.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ds/array/iq/TwoSum.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/oop/Employee.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/oop/inheritance/InClient.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/oop/inheritance/ModArrayList.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2e26GqFP9rg4QujwKdkz2hBoQ5l" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/InteliJ_Projects/JPractice&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.InClient">
+    <configuration name="DSMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.DSMain" />
+      <module name="DSA_V2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.inheritance.InClient" />
+      <module name="DSA_V2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.array.iq.MergeTwoArrays" />
+      <module name="DSA_V2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ds.array.iq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.array.iq.TwoSum" />
+      <module name="DSA_V2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ds.array.iq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DSA_V2 [deploy]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="deploy" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.InClient" />
+      <item itemvalue="Application.MergeTwoArrays" />
+      <item itemvalue="Application.TwoSum" />
+      <item itemvalue="Application.DSMain" />
+      <item itemvalue="Maven.DSA_V2 [deploy]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InClient" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.MergeTwoArrays" />
+        <item itemvalue="Application.DSMain" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
